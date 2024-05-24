@@ -1,4 +1,7 @@
-hi im choke, i code in **lua**, **typescript** and **nodejs**
+hi im choke, i code in
+- lua
+- typescript
+- javascript
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/208876506146013185?idleMessage=hey&showDisplayName=true)](https://discord.com/users/208876506146013185)
 

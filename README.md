@@ -1,7 +1,13 @@
-hi im choke, i code in
+hi im choke, i dabble in
 - lua
 - typescript
 - javascript
+- cpp
+- java
+
+im currently learning rust
+
+i promise i'll improve this readme 🙏
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/208876506146013185?idleMessage=hey&showDisplayName=true)](https://discord.com/users/208876506146013185)
 

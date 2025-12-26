@@ -1,14 +1,15 @@
-hi im choke, i dabble in
+hi im choke, i (mostly) dabble in
 - lua
-- typescript
-- javascript
+- javascript & typescript
+
+though i do know these languages as well:
 - cpp
 - java
+- rust
+- php
 
-im currently learning rust
+everything i put on my profile is a passion project, so dont expect anything i put out to be updated frequently, though i still check up on my github notifs 
 
 i promise i'll improve this readme 🙏
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/208876506146013185?idleMessage=hey&showDisplayName=true)](https://discord.com/users/208876506146013185)
-
-<h3>Around <a href="#"><img src="https://profile-counter.glitch.me/choke-dev/count.svg"></a> people refreshed this page</h3>
+[![Discord Presence](https://lanyard.cnrad.dev/api/208876506146013185?showDisplayName=true)](https://discord.com/users/208876506146013185)
